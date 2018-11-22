@@ -1,0 +1,9 @@
+/.git/
+/.idea/
+/symfony/var/logs/
+/symfony/var/cache/
+/temp/
+/symfony/web/images/
+/symfony/node_modules/
+/symfony/npm-debug.log
+/symfony/web/assets/
